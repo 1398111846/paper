@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T07:09:29.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zzlmns1FPMiTvTgU68G5" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T08:33:05.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="0xulySFpPvRV7xaQLaEk" version="14.4.8" type="github">
   <diagram id="tkSsvwyT-QKNX5b_GbQI" name="第 1 页">
-    <mxGraphModel dx="1662" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -813,18 +813,6 @@
         </mxCell>
         <mxCell id="L0sxoJ8NojBfWLKHBl2A-113" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="820" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L0sxoJ8NojBfWLKHBl2A-116" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=10;entryDy=50;entryPerimeter=0;" edge="1" parent="1" target="L0sxoJ8NojBfWLKHBl2A-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="88" y="820" as="sourcePoint" />
-            <mxPoint x="135" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L0sxoJ8NojBfWLKHBl2A-123" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=10;entryDy=50;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="129" y="823" as="sourcePoint" />
-            <mxPoint x="128.5" y="793" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="L0sxoJ8NojBfWLKHBl2A-124" value="交换机s9-s24：&lt;br&gt;端口1和level1交换机相连，&lt;br&gt;端口2和level2交换机相连，&lt;br&gt;端口3和下面的服务器相连" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="735" width="180" height="70" as="geometry" />
